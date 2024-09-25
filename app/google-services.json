@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916831068784",
+    "project_id": "movie-book-c15b0",
+    "storage_bucket": "movie-book-c15b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916831068784:android:0a96b01447baa109234ab5",
+        "android_client_info": {
+          "package_name": "com.vaibhav.moviebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtUHhEQ4G13lR1BMUFUu3wBOkqVfV89s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
